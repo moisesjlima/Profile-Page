@@ -57,6 +57,7 @@ li {list-style: none;}
 
 /*PRINCIPAL*/
 .principal {
+    float: left;
     width: 100%;
     min-height: 500px;
     padding: 10px 2%;
