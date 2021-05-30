@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*CONTEUDO INICIO*/
+.principal img {width: 300px; border-radius: 180px; float: left; padding: 10px;}
+
+.principal p {font-size: 1.1em; text-indent: 0.5em; line-height: 30px}
+
+.principal strong {color: #96C1D5;}
+
+.apresentation {padding: 20px; float: left; width: 45%;}
+.apresentation p {text-align: justify; margin-top: 20px;}
+.apresentation strong:hover{color: rgb(97, 97, 97);}
+
+/*ASIDE*/
+aside.end {
+    width: 28%;
+    height: 480px;
+    float: right;
+    border: 1px dotted rgb(155, 155, 155);
+    border-radius: 10px;
+    padding: 10px 2%;
+}
+
+aside.end iframe {width: 100%; margin-bottom: 20px; margin-top: 10px;}
+
+aside.end h2 {
+    margin-bottom: 15px;
+}
+
+aside.end ul li {
+    margin-top: 20px;
+}
