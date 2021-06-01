@@ -9,6 +9,8 @@
 
 .principal p {text-align: justify; font-size: 1.1em; margin-top: 10px; padding: 5px; line-height: 30px;}
 
+.principal strong:hover{color: rgb(97, 97, 97);}
+
 .principal figcaption{position: absolute; margin-top: 290px; margin-left: 50px; font-weight: bolder;}
 
 .principal strong {color: #96C1D5;}

@@ -12,8 +12,8 @@
 
 /*ASIDE*/
 aside.end {
-    width: 28%;
-    height: 480px;
+    max-width: 28%;
+    min-height: 480px;
     float: right;
     border: 1px dotted rgb(155, 155, 155);
     border-radius: 10px;

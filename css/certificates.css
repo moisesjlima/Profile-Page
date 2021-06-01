@@ -3,4 +3,4 @@
 .principal h1 {font-size: 1.5em;}
 .principal p {margin-top: 10px;}
 
-.principal img {width: 400px; margin-top: 20px; padding: 10px;}
+.principal img {max-width: 400px; margin-top: 20px; padding: 10px;}
